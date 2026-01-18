@@ -19,7 +19,7 @@ function App() {
 
           {/* 이름 */}
           <h1 className="mt-4 text-2xl font-bold text-gray-900">
-            홍길동
+            채교준
           </h1>
 
           {/* 간단 소개 */}
